@@ -11,13 +11,19 @@ Color theme:
   Secondary: #10b981 / rgba(16,185,129,255)
 
 -->
-Hi 👋 My name is Felipe ======================= Web Developer ------------- I
-have a passion for coding! I've taken the initiative to learn much of my coding
-by myself while also completing courses in programming at university. * 🌍  I
-live in Canada * 🖥️  See my portfolio at
-[fmartin.netlify.app](http://fmartin.netlify.app/#) * ✉️  You can contact me at
-[felimart2003@gmail.com](mailto:felimart2003@gmail.com) * 🧠  I'm learning
-Typescript & Rust ### Skills
+Hi 👋 My name is Felipe
+======================= 
+
+Web Developer 
+-------------
+
+I have a passion for coding! I've taken the initiative to learn much of my coding
+by myself while also completing courses in programming at university. 
+* 🌍  I live in Canada * 🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) 
+* ✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) 
+* 🧠  I'm learning Typescript & Rust 
+
+### Skills
 
 <p align="center">
   <a
