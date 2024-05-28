@@ -21,8 +21,8 @@ Color theme:
 </p>
 
 <p align="center">
-I have a passion for coding! <br> I've taken the initiative to learn <br>much of my coding
-by myself while also completing courses in programming at university. 
+I have a passion for coding! <br> I've taken the initiative to learn much of my coding
+by myself while also completing courses in <br>programming at university. 
 <ul>
 <li>🌍  I live in Canada </li>
 <li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
