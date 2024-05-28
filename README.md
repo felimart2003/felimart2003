@@ -1,4 +1,4 @@
-<!--
+<!-- 
 The following was created with the help of:
   https://www.profileme.dev/ -- Profile generator
   https://streak-stats.demolab.com/demo/ -- Streak stats
@@ -10,9 +10,9 @@ Color theme:
   Primary: #097D9C / rgb(9, 125, 156)
   Secondary: #10b981 / rgba(16,185,129,255)
 
--->
+ -->
 
-<h1 align="center>Hi 👋 My name is Felipe</h1>
+<h1 align="center">Hi 👋 My name is Felipe</h1>
 ======================= 
 
 <h2 align="center">Web Developer</h2>
