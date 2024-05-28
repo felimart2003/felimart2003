@@ -13,10 +13,8 @@ Color theme:
  -->
 
 <h1 align="center">Hi 👋 My name is Felipe</h1>
-======================= 
 
 <h2 align="center">Web Developer</h2>
--------------
 
 <p align="center>
 I have a passion for coding! I've taken the initiative to learn much of my coding
@@ -222,8 +220,8 @@ media="(prefers-color-scheme: light)"
 <!-- Stats card -- https://github-profile-summary-cards.vercel.app/demo.html -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felimart2003&theme=radical">
 
-<!-- Profile view counter: https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=felimart2003&color={#10b981}&style=flat&abbreviated=true&label=Profile+Views">
+<!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
 
 <!-- Profile trophies: https://github.com/ryo-ma/github-profile-trophy -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
