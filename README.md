@@ -191,8 +191,7 @@ by myself while also completing courses in programming at university.
 /></a>
 
 <!-- Graph commits -- https://github.com/Ashutosh00710/github-readme-activity-graph : https://ashutosh00710.github.io/github-readme-activity-graph/ (Generator) -->
-<a href="http://www.github.com/felimart2003"
-  >
+<a href="http://www.github.com/felimart2003">
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=171717&color=097d9c&line=10b981&point=097d9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <!-- <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=0f172a&color=10b981&line=0891b2&point=10b981&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
@@ -201,29 +200,36 @@ by myself while also completing courses in programming at university.
 </a>
 
 <!-- Top Languages -->
-<a href="https://github.com/felimart2003" align="center"
-  ><img
+<a href="https://github.com/felimart2003" align="center"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimart2003&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages"
 /></a>
 
-<!-- Spotify widget -- https://spotify-github-profile.vercel.app/api/callback?code=AQDFJWQGAmu5EI_ri_FURFIGHbqucA7jEmd2rFgs_Cs8glubo9Ynnl4vEda3pgDd5WkAfp2_htD_mLnpmEi7AJAKQ45obGlxagaoLnqVI2dOCVmCIykgIq8VvKJMCZ3RU9JsPU6Q30ZGYq0zMJvu184vo13tY6jJGKL44tEj-RrjpUbwogMFaD0roRva7IwmwfGOdp8PMkxL-ZXPJiEYDXFC2Rd6ce3R6PdVu2qMV8vahiACP5hb3YG_8sjost5mkjt2tWELyNDS2vJ6AIhAMEru -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true)
 
 <details>
+
 <!-- Dark theme color candidates: codeSTACKr, great_gatsby, nightowl, radical, tokyonight, prussian, transparent  // Light theme: moltack, prussian
 View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output-->
 media="(prefers-color-scheme: dark)"
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felimart2003&theme=radical)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felimart2003&theme=radical">
 media="(prefers-color-scheme: light)"
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felimart2003&theme=nord_bright)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felimart2003&theme=nord_bright">
 
-<!-- Stats card  -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felimart2003&theme=radical)
+<!-- Stats card -- https://github-profile-summary-cards.vercel.app/demo.html -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felimart2003&theme=radical">
+
 <!-- Profile view counter: https://github.com/antonkomarev/github-profile-views-counter -->
-![](https://komarev.com/ghpvc/?username=felimart2003&color=#10b981&style=flat&abbreviated=true)
+<img src="https://komarev.com/ghpvc/?username=felimart2003&color={#10b981}&style=flat&abbreviated=true&label=Profile+Views">
 
 <!-- Profile trophies: https://github.com/ryo-ma/github-profile-trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=felimart2003)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=felimart2003" alt="GitHub Profile Trophy">
+</a>
+
 
 </details>
+
+
+### Spotify
+<!-- Spotify widget -- https://spotify-github-profile.vercel.app/api/callback?code=AQDFJWQGAmu5EI_ri_FURFIGHbqucA7jEmd2rFgs_Cs8glubo9Ynnl4vEda3pgDd5WkAfp2_htD_mLnpmEi7AJAKQ45obGlxagaoLnqVI2dOCVmCIykgIq8VvKJMCZ3RU9JsPU6Q30ZGYq0zMJvu184vo13tY6jJGKL44tEj-RrjpUbwogMFaD0roRva7IwmwfGOdp8PMkxL-ZXPJiEYDXFC2Rd6ce3R6PdVu2qMV8vahiACP5hb3YG_8sjost5mkjt2tWELyNDS2vJ6AIhAMEru -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true)
