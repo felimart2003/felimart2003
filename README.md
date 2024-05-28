@@ -15,9 +15,9 @@ Color theme:
 <h1 style="font-size: 5rem;" align="center">Hi 👋 My name is Felipe</h1>
 
 <!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
-<div style="text-align: center;">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
-</div>
+</p>
 
 <h2 align="center">Web Developer</h2>
 
