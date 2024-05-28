@@ -11,17 +11,21 @@ Color theme:
   Secondary: #10b981 / rgba(16,185,129,255)
 
 -->
-Hi 👋 My name is Felipe
+
+<h1 align="center>Hi 👋 My name is Felipe</h1>
 ======================= 
 
-Web Developer 
+<h2 align="center">Web Developer</h2>
 -------------
 
+<p align="center>
 I have a passion for coding! I've taken the initiative to learn much of my coding
 by myself while also completing courses in programming at university. 
-* 🌍  I live in Canada * 🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) 
+* 🌍  I live in Canada 
+* 🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) 
 * ✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) 
 * 🧠  I'm learning Typescript & Rust 
+</p>
 
 ### Skills
 
@@ -192,11 +196,11 @@ by myself while also completing courses in programming at university.
 
 <!-- Graph commits -- https://github.com/Ashutosh00710/github-readme-activity-graph : https://ashutosh00710.github.io/github-readme-activity-graph/ (Generator) -->
 <a href="http://www.github.com/felimart2003">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=171717&color=097d9c&line=10b981&point=097d9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <!-- <img
+  <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=171717&color=097d9c&line=10b981&point=097d9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=0f172a&color=10b981&line=0891b2&point=10b981&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
-/> -->
+/>
 </a>
 
 <!-- Top Languages -->
