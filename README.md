@@ -21,8 +21,7 @@ Color theme:
 </p>
 
 <p align="center">
-I have a passion for coding! <br> I've taken the initiative to learn much of my coding
-by myself while also completing courses in <br>programming at university. 
+I have a strong passion for coding! <br> I've taken the initiative to learn much of my coding by myself while also completing courses in <br>programming at university. I always like the challenge of solving puzzles and coding gives me that <br>satisfaction! Often I will get lost in what I'm working on for hours before I realize I have to <br>go to sleep but it leaves me fulfilled and I find it enjoyable 😄 I hope to help people with my <br>projects or even inspire others with ideas to create their own.
 <ul>
 <li>🌍  I live in Canada </li>
 <li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
