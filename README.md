@@ -12,11 +12,12 @@ Color theme:
 
  -->
 
-<h1 align="center">Hi 👋 My name is Felipe</h1>
+<h1 style="font-size: 5rem;" align="center">Hi 👋 My name is Felipe</h1>
 
 <!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
-
+<div style="text-align: center;">
 <img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
+</div>
 
 <h2 align="center">Web Developer</h2>
 
@@ -24,10 +25,10 @@ Color theme:
 I have a passion for coding! I've taken the initiative to learn much of my coding
 by myself while also completing courses in programming at university. 
 <ul>
-<li>* 🌍  I live in Canada </li>
-<li>* 🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) </li>
-<li>* ✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) </li>
-<li>* 🧠  I'm learning Typescript & Rust </li>
+<li>🌍  I live in Canada </li>
+<li>🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) </li>
+<li>✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) </li>
+<li>🧠  I'm learning Typescript & Rust </li>
 </ul>
 </p>
 
@@ -218,16 +219,17 @@ by myself while also completing courses in programming at university.
 
 <!-- Dark theme color candidates: codeSTACKr, great_gatsby, nightowl, radical, tokyonight, prussian, transparent  // Light theme: moltack, prussian
 View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output-->
-media="(prefers-color-scheme: dark)"
+<a href="http://www.github.com/felimart2003">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felimart2003&theme=radical">
-media="(prefers-color-scheme: light)"
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felimart2003&theme=nord_bright">
+</a>
 
 <!-- Stats card -- https://github-profile-summary-cards.vercel.app/demo.html -->
+<a href="http://www.github.com/felimart2003">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felimart2003&theme=radical">
+</a>
 
 <!-- Profile trophies: https://github.com/ryo-ma/github-profile-trophy -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/felimart2003">
   <img src="https://github-profile-trophy.vercel.app/?username=felimart2003" alt="GitHub Profile Trophy">
 </a>
 
