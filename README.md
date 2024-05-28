@@ -1,6 +1,7 @@
 <!-- 
 The following was created with the help of:
   https://www.profileme.dev/ -- Profile generator
+  https://profilinator.rishav.dev/ -- Another profile generator
   https://streak-stats.demolab.com/demo/ -- Streak stats
   https://github.com/antonkomarev/github-profile-views-counter -- View counter
   https://shields.io/badges -- Github badges
@@ -19,8 +20,6 @@ Color theme:
 <img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
 </p>
 
-<h2 align="center">Web Developer</h2>
-
 <p align="center">
 I have a passion for coding! I've taken the initiative to learn much of my coding
 by myself while also completing courses in programming at university. 
@@ -32,8 +31,8 @@ by myself while also completing courses in programming at university.
 </ul>
 </p>
 
-<h3 align="center">Skills</h3>
-
+<!-- SKILLS -->
+<h2 align="center">Skills</h2>
 <p align="center">
   <a
     href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
@@ -104,8 +103,8 @@ by myself while also completing courses in programming at university.
   /></a>
 </p>
 
-<h3 align="center">Socials</h3>
-
+<!-- SOCIALS -->
+<h2 align="center">Socials</h2>
 <p align="center">
   <a
     href="https://www.github.com/felimart2003"
@@ -184,20 +183,19 @@ by myself while also completing courses in programming at university.
   </a>
 </p>
 
-<h3 align="center">Badges</h3>
+<!-- STATS -->
+<h2 align="center">Stats</h2>
 
-<b>My GitHub Stats</b>
-
-<!-- General gihub stats -->
-<a href="http://www.github.com/felimart2003">
-<img
-    src="https://github-readme-stats.vercel.app/api?username=felimart2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true"
-    alt="felimart2003's GitHub stats"
-/></a>
 
 <!-- Streak stats -- https://github.com/DenverCoder1/github-readme-streak-stats : https://streak-stats.demolab.com/demo/ (Generator) -->
 <a href="http://www.github.com/felimart2003"><img
     src="https://github-readme-streak-stats.herokuapp.com/?user=felimart2003&stroke=10b981&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true"
+/></a>
+
+<!-- Top Languages -->
+<a href="https://github.com/felimart2003" align="center"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimart2003&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages"
+    alt="Top Languages"
 /></a>
 
 <!-- Graph commits -- https://github.com/Ashutosh00710/github-readme-activity-graph : https://ashutosh00710.github.io/github-readme-activity-graph/ (Generator) -->
@@ -209,16 +207,11 @@ by myself while also completing courses in programming at university.
 />
 </a>
 
-<!-- Top Languages -->
-<a href="https://github.com/felimart2003" align="center"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimart2003&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"
-/></a>
-
 
 <details>
 
-<!-- Dark theme color candidates: codeSTACKr, great_gatsby, nightowl, radical, tokyonight, prussian, transparent  // Light theme: moltack, prussian
+<!-- Contributions graph -- https://github-profile-summary-cards.vercel.app/demo.html (Generator)
+Dark theme color candidates: codeSTACKr, great_gatsby, nightowl, radical, tokyonight, prussian, transparent  // Light theme: moltack, prussian
 View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output-->
 <a href="http://www.github.com/felimart2003">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felimart2003&theme=radical">
@@ -238,8 +231,10 @@ View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-exampl
 </details>
 
 <!-- SPOTIFY -->
-<h3 align="center">Spotify</h3>
+<h2 align="center">Spotify</h2>
 <!-- Spotify widget -- https://spotify-github-profile.vercel.app/api/callback?code=AQDFJWQGAmu5EI_ri_FURFIGHbqucA7jEmd2rFgs_Cs8glubo9Ynnl4vEda3pgDd5WkAfp2_htD_mLnpmEi7AJAKQ45obGlxagaoLnqVI2dOCVmCIykgIq8VvKJMCZ3RU9JsPU6Q30ZGYq0zMJvu184vo13tY6jJGKL44tEj-RrjpUbwogMFaD0roRva7IwmwfGOdp8PMkxL-ZXPJiEYDXFC2Rd6ce3R6PdVu2qMV8vahiACP5hb3YG_8sjost5mkjt2tWELyNDS2vJ6AIhAMEru -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify GitHub Profile">
-</a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify GitHub Profile">
+  </a>
+</div>
