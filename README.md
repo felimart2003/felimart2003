@@ -24,10 +24,10 @@ Color theme:
 I have a passion for coding! <br> I've taken the initiative to learn much of my coding
 by myself while also completing courses in <br>programming at university. 
 <ul>
-\t\t\t <li>🌍  I live in Canada </li>
-\t\t\t <li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
-\t\t\t <li>✉️  You can contact me at <a href="mailto:felimart2003@gmail.com">felimart2003@gmail.com</a> </li>
-\t\t\t <li>🧠  I'm learning Typescript & Rust </li>
+<li>🌍  I live in Canada </li>
+<li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
+<li>✉️  You can contact me at <a href="mailto:felimart2003@gmail.com">felimart2003@gmail.com</a> </li>
+<li>🧠  I'm learning Typescript & Rust </li>
 </ul>
 </p>
 
