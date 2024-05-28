@@ -200,16 +200,14 @@ by myself while also completing courses in programming at university.
 /></a> </td>
 </tr>
 
-<tr>
 <!-- Graph commits -- https://github.com/Ashutosh00710/github-readme-activity-graph : https://ashutosh00710.github.io/github-readme-activity-graph/ (Generator) -->
-<td> <a href="http://www.github.com/felimart2003">
+<a href="http://www.github.com/felimart2003">
   <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=171717&color=097d9c&line=10b981&point=097d9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=0f172a&color=10b981&line=0891b2&point=10b981&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
 />
-</a> </td>
-</tr>
+</a> 
 
 </table>
 
