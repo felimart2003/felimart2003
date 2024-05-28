@@ -179,15 +179,14 @@ by myself while also completing courses in programming at university.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/felimart2003"
-  ><img
+<a href="http://www.github.com/felimart2003">
+<img
     src="https://github-readme-stats.vercel.app/api?username=felimart2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true"
     alt="felimart2003's GitHub stats"
 /></a>
 
 <!-- Streak stats -- https://github.com/DenverCoder1/github-readme-streak-stats : https://streak-stats.demolab.com/demo/ (Generator) -->
-<a href="http://www.github.com/felimart2003"
-  ><img
+<a href="http://www.github.com/felimart2003"><img
     src="https://github-readme-streak-stats.herokuapp.com/?user=felimart2003&stroke=10b981&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true"
 /></a>
 
@@ -208,6 +207,7 @@ by myself while also completing courses in programming at university.
     alt="Top Languages"
 /></a>
 
+<!-- Spotify widget -- https://spotify-github-profile.vercel.app/api/callback?code=AQDFJWQGAmu5EI_ri_FURFIGHbqucA7jEmd2rFgs_Cs8glubo9Ynnl4vEda3pgDd5WkAfp2_htD_mLnpmEi7AJAKQ45obGlxagaoLnqVI2dOCVmCIykgIq8VvKJMCZ3RU9JsPU6Q30ZGYq0zMJvu184vo13tY6jJGKL44tEj-RrjpUbwogMFaD0roRva7IwmwfGOdp8PMkxL-ZXPJiEYDXFC2Rd6ce3R6PdVu2qMV8vahiACP5hb3YG_8sjost5mkjt2tWELyNDS2vJ6AIhAMEru -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true)
 
 <details>
