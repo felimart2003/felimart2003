@@ -14,16 +14,20 @@ Color theme:
 
 <h1 align="center">Hi 👋 My name is Felipe</h1>
 
+<!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
+
+<img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
+
 <h2 align="center">Web Developer</h2>
 
 <p align="center">
 I have a passion for coding! I've taken the initiative to learn much of my coding
 by myself while also completing courses in programming at university. 
 <ul>
-* 🌍  I live in Canada 
-* 🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) 
-* ✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) 
-* 🧠  I'm learning Typescript & Rust 
+<li>* 🌍  I live in Canada </li>
+<li>* 🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) </li>
+<li>* ✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) </li>
+<li>* 🧠  I'm learning Typescript & Rust </li>
 </ul>
 </p>
 
@@ -222,9 +226,6 @@ media="(prefers-color-scheme: light)"
 <!-- Stats card -- https://github-profile-summary-cards.vercel.app/demo.html -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felimart2003&theme=radical">
 
-<!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
-
 <!-- Profile trophies: https://github.com/ryo-ma/github-profile-trophy -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=felimart2003" alt="GitHub Profile Trophy">
@@ -236,4 +237,6 @@ media="(prefers-color-scheme: light)"
 
 <h3 align="center">Spotify</h3>
 <!-- Spotify widget -- https://spotify-github-profile.vercel.app/api/callback?code=AQDFJWQGAmu5EI_ri_FURFIGHbqucA7jEmd2rFgs_Cs8glubo9Ynnl4vEda3pgDd5WkAfp2_htD_mLnpmEi7AJAKQ45obGlxagaoLnqVI2dOCVmCIykgIq8VvKJMCZ3RU9JsPU6Q30ZGYq0zMJvu184vo13tY6jJGKL44tEj-RrjpUbwogMFaD0roRva7IwmwfGOdp8PMkxL-ZXPJiEYDXFC2Rd6ce3R6PdVu2qMV8vahiACP5hb3YG_8sjost5mkjt2tWELyNDS2vJ6AIhAMEru -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify GitHub Profile">
+</a>
