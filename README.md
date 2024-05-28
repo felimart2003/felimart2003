@@ -26,8 +26,8 @@ I have a passion for coding! I've taken the initiative to learn much of my codin
 by myself while also completing courses in programming at university. 
 <ul>
 <li>🌍  I live in Canada </li>
-<li>🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) </li>
-<li>✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) </li>
+<li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
+<li>✉️  You can contact me at <a href="mailto:felimart2003@gmail.com">felimart2003@gmail.com</a> </li>
 <li>🧠  I'm learning Typescript & Rust </li>
 </ul>
 </p>
@@ -188,6 +188,7 @@ by myself while also completing courses in programming at university.
 
 <b>My GitHub Stats</b>
 
+<!-- General gihub stats -->
 <a href="http://www.github.com/felimart2003">
 <img
     src="https://github-readme-stats.vercel.app/api?username=felimart2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true"
@@ -236,7 +237,7 @@ View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-exampl
 
 </details>
 
-
+<!-- SPOTIFY -->
 <h3 align="center">Spotify</h3>
 <!-- Spotify widget -- https://spotify-github-profile.vercel.app/api/callback?code=AQDFJWQGAmu5EI_ri_FURFIGHbqucA7jEmd2rFgs_Cs8glubo9Ynnl4vEda3pgDd5WkAfp2_htD_mLnpmEi7AJAKQ45obGlxagaoLnqVI2dOCVmCIykgIq8VvKJMCZ3RU9JsPU6Q30ZGYq0zMJvu184vo13tY6jJGKL44tEj-RrjpUbwogMFaD0roRva7IwmwfGOdp8PMkxL-ZXPJiEYDXFC2Rd6ce3R6PdVu2qMV8vahiACP5hb3YG_8sjost5mkjt2tWELyNDS2vJ6AIhAMEru -->
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true">
