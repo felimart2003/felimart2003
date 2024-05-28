@@ -19,13 +19,15 @@ Color theme:
 <p align="center">
 I have a passion for coding! I've taken the initiative to learn much of my coding
 by myself while also completing courses in programming at university. 
+<ul>
 * 🌍  I live in Canada 
 * 🖥️  See my portfolio at [fmartin.netlify.app](http://fmartin.netlify.app/#) 
 * ✉️  You can contact me at [felimart2003@gmail.com](mailto:felimart2003@gmail.com) 
 * 🧠  I'm learning Typescript & Rust 
+</ul>
 </p>
 
-### Skills
+<h3 align="center">Skills</h3>
 
 <p align="center">
   <a
@@ -97,7 +99,7 @@ by myself while also completing courses in programming at university.
   /></a>
 </p>
 
-### Socials
+<h3 align="center">Socials</h3>
 
 <p align="center">
   <a
@@ -177,7 +179,7 @@ by myself while also completing courses in programming at university.
   </a>
 </p>
 
-### Badges
+<h3 align="center">Badges</h3>
 
 <b>My GitHub Stats</b>
 
@@ -232,6 +234,6 @@ media="(prefers-color-scheme: light)"
 </details>
 
 
-### Spotify
+<h3 align="center">Spotify</h3>
 <!-- Spotify widget -- https://spotify-github-profile.vercel.app/api/callback?code=AQDFJWQGAmu5EI_ri_FURFIGHbqucA7jEmd2rFgs_Cs8glubo9Ynnl4vEda3pgDd5WkAfp2_htD_mLnpmEi7AJAKQ45obGlxagaoLnqVI2dOCVmCIykgIq8VvKJMCZ3RU9JsPU6Q30ZGYq0zMJvu184vo13tY6jJGKL44tEj-RrjpUbwogMFaD0roRva7IwmwfGOdp8PMkxL-ZXPJiEYDXFC2Rd6ce3R6PdVu2qMV8vahiACP5hb3YG_8sjost5mkjt2tWELyNDS2vJ6AIhAMEru -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=soccerskillzer&redirect=true)
