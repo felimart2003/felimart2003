@@ -13,15 +13,15 @@ Color theme:
 
  -->
 
-<h1 style="font-size: 15rem;" align="center">Hi 👋 My name is Felipe</h1>
+<h1 align="center">Hi 👋 My name is Felipe</h1>
 
 <!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
 </p>
 
-<p align="center" style="width: 60%;">
-I have a passion for coding! I've taken the initiative to learn much of my coding
+<p align="center">
+I have a passion for coding! <br> I've taken the initiative to learn <br>much of my coding
 by myself while also completing courses in programming at university. 
 <ul>
 <li>🌍  I live in Canada </li>
@@ -212,7 +212,7 @@ by myself while also completing courses in programming at university.
 </table>
 
 
-<details style="font-size: 20px;">
+<details>
 
 <!-- Contributions graph -- https://github-profile-summary-cards.vercel.app/demo.html (Generator)
 Dark theme color candidates: codeSTACKr, great_gatsby, nightowl, radical, tokyonight, prussian, transparent  // Light theme: moltack, prussian
