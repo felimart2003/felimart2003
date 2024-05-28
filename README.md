@@ -16,7 +16,7 @@ Color theme:
 
 <h2 align="center">Web Developer</h2>
 
-<p align="center>
+<p align="center">
 I have a passion for coding! I've taken the initiative to learn much of my coding
 by myself while also completing courses in programming at university. 
 * 🌍  I live in Canada 
