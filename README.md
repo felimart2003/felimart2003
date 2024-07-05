@@ -239,6 +239,6 @@ View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-exampl
 <!-- Spotify widget -- -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=soccerskillzer&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=soccerskillzer&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify GitHub Profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify GitHub Profile">
   </a>
 </p>
