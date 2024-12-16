@@ -26,7 +26,10 @@ Color theme:
 <!-- BIO -->
 <p align="center">
 I have a strong passion for coding! <br>...<br> I've taken the initiative to learn much of my coding by myself while also completing courses in <br>programming at university. I always like the challenge of solving puzzles and coding gives me that <br>satisfaction! Often I will get lost in what I'm working on for hours before I realize I have to <br>go to sleep but it leaves me fulfilled and I find it enjoyable 😄 I hope to help people with my <br>projects or even inspire others with ideas to create their own. <br>
-  
+
+<!-- GIF -->
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ0ZnJmdms2aW1hdnUxOGtmc2R5dGw4NTZpNXJmNGJ0d3Bra3hhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gGBN3q97tUE8/giphy.webp"/>
+
 <ul>
 <li>🌍  I live in Canada </li>
 <li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
@@ -34,6 +37,9 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
 <li>🧠  I'm learning Typescript & Rust </li>
 </ul>
 </p>
+
+<br>
+<br>
 
 <!-- SKILLS -->
 <h2 align="center">Skills</h2>
