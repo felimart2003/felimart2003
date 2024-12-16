@@ -7,13 +7,16 @@ The following was created with the help of:
   https://shields.io/badges -- Github badges
   https://github-profile-summary-cards.vercel.app/demo.html -- Extra stats 
 
+Extras (not using currently):
+  https://github.com/DenverCoder1/readme-typing-svg -- Dynamic typing
+
 Color theme: 
   Primary: #097D9C / rgb(9, 125, 156)
   Secondary: #10b981 / rgba(16,185,129,255)
 
  -->
 
-<h1 align="center">Hi 👋 My name is Felipe</h1>
+<h1 align="center">Hello! I'm Felipe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  
 
 <!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
@@ -22,7 +25,8 @@ Color theme:
 
 <!-- BIO -->
 <p align="center">
-I have a strong passion for coding! <br>...<br> I've taken the initiative to learn much of my coding by myself while also completing courses in <br>programming at university. I always like the challenge of solving puzzles and coding gives me that <br>satisfaction! Often I will get lost in what I'm working on for hours before I realize I have to <br>go to sleep but it leaves me fulfilled and I find it enjoyable 😄 I hope to help people with my <br>projects or even inspire others with ideas to create their own.
+I have a strong passion for coding! <br>...<br> I've taken the initiative to learn much of my coding by myself while also completing courses in <br>programming at university. I always like the challenge of solving puzzles and coding gives me that <br>satisfaction! Often I will get lost in what I'm working on for hours before I realize I have to <br>go to sleep but it leaves me fulfilled and I find it enjoyable 😄 I hope to help people with my <br>projects or even inspire others with ideas to create their own. <br>
+  
 <ul>
 <li>🌍  I live in Canada </li>
 <li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
