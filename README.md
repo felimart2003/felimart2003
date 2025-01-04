@@ -1,25 +1,104 @@
-<!-- 
+<!--
 The following was created with the help of:
-  https://www.profileme.dev/ -- Profile generator
+  https://www.profileme.dev/ -- Profile generator (Daniel Cranney)
   https://profilinator.rishav.dev/ -- Another profile generator
   https://streak-stats.demolab.com/demo/ -- Streak stats
   https://github.com/antonkomarev/github-profile-views-counter -- View counter
   https://shields.io/badges -- Github badges
-  https://github-profile-summary-cards.vercel.app/demo.html -- Extra stats 
+  https://github-profile-summary-cards.vercel.app/demo.html -- Extra stats
 
 Extras (not using currently):
   https://github.com/DenverCoder1/readme-typing-svg -- Dynamic typing
   https://s01.flagcounter.com/index.html - Flag counter
   <a href="https://info.flagcounter.com/lLEa"><img src="https://s01.flagcounter.com/countxl/lLEa/bg_000000/txt_FFFFFF/border_000000/columns_5/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-Color theme: 
+Color theme:
   Primary: #097D9C / rgb(9, 125, 156)
   Secondary: #10b981 / rgba(16,185,129,255)
 
  -->
 
-<h1 align="center">Hello! I'm Felipe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  
+<h1 align="center">Hello! I'm Felipe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
+<!-- SOCIALS -->
+<h2 align="center">Socials</h2>
+<p align="center">
+  <a
+    href="https://www.github.com/felimart2003"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a
+    href="https://www.linkedin.com/in/fmartin-/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a
+    href="https://www.stackoverflow.com/users/13178796/felipe-martinez"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+</p>
 <!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
@@ -112,88 +191,16 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
       width="36"
       height="36"
       alt="Linux"
-  /></a>
+  />
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="
+" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="
+" width="36" height="36" alt="Neovim" /></a>
 </p>
 
-<!-- SOCIALS -->
-<h2 align="center">Socials</h2>
-<p align="center">
-  <a
-    href="https://www.github.com/felimart2003"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
-  <a
-    href="https://www.linkedin.com/in/fmartin-/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
-  <a
-    href="https://www.stackoverflow.com/users/13178796/felipe-martinez"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
   </a>
 </p>
+
+
 
 <!-- STATS -->
 <h2 align="center">Stats</h2>
@@ -205,8 +212,7 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
     src="https://github-readme-activity-graph.vercel.app/graph?username=felimart2003&bg_color=0f172a&color=10b981&line=0891b2&point=10b981&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
 />
-</a> 
-
+</a>
 
 <table>
 <tr>
@@ -222,7 +228,6 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
 /></a> </td>
 </tr>
 </table>
-
 
 <details>
 
@@ -242,7 +247,6 @@ View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-exampl
 <a href="https://github.com/felimart2003">
   <img src="https://github-profile-trophy.vercel.app/?username=felimart2003" alt="GitHub Profile Trophy">
 </a>
-
 
 </details>
 
