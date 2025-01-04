@@ -18,6 +18,7 @@ Color theme:
 
  -->
 
+<<<<<<< HEAD
 <div style="display: flex; justify-content: center; align-items: center;">
   <h1 style="margin: 0;">Hello! I'm Felipe</h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="margin-left: 10px;">
@@ -45,6 +46,72 @@ Color theme:
     </picture>
   </a>
 </div>
+=======
+<h1 align="center">Hello! I'm Felipe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <a
+    href="https://www.github.com/felimart2003"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a
+    href="https://www.linkedin.com/in/fmartin-/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a
+    href="https://www.stackoverflow.com/users/13178796/felipe-martinez"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+      />
+      <img
+        src=""
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+</h1>
+>>>>>>> 442dab4 (Update to regular main w/o my resume pic)
 
 <!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
