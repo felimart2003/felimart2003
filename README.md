@@ -20,7 +20,6 @@ Color theme:
 
 <h1 align="center">Hello! I'm Felipe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<!-- SOCIALS -->
 <h2 align="center">Socials</h2>
 <p align="center">
   <a
@@ -192,15 +191,11 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
       height="36"
       alt="Linux"
   />
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="
-" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="
-" width="36" height="36" alt="Neovim" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
 </p>
 
   </a>
 </p>
-
-
 
 <!-- STATS -->
 <h2 align="center">Stats</h2>
