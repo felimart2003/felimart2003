@@ -6,6 +6,7 @@ The following was created with the help of:
   https://github.com/antonkomarev/github-profile-views-counter -- View counter
   https://shields.io/badges -- Github badges
   https://github-profile-summary-cards.vercel.app/demo.html -- Extra stats
+  https://spotify-github-profile.kittinanx.com -- Spotify
 
 Extras (not using currently):
   https://github.com/DenverCoder1/readme-typing-svg -- Dynamic typing
@@ -97,6 +98,7 @@ Color theme:
     </picture>
   </a>
 </p>
+
 <!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=felimart2003&color=10b981&style=flat&abbreviated=true&label=Profile+Views">
