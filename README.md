@@ -21,7 +21,7 @@ Color theme:
 
  -->
 
-<h1 align="center">Hello! I'm Felipe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">Hello! I'm Felipe <img src="./assets/Hi.gif" width="30px"> </h1>
 
 <p align="center">
   <a
@@ -111,7 +111,7 @@ Color theme:
 I have a strong passion for coding! <br>...<br> I've taken the initiative to learn much of my coding by myself while also completing courses in <br>programming at university. I always like the challenge of solving puzzles and coding gives me that <br>satisfaction! Often I will get lost in what I'm working on for hours before I realize I have to <br>go to sleep but it leaves me fulfilled and I find it enjoyable 😄 I hope to help people with my <br>projects or even inspire others with ideas to create their own. <br>
 
 <!-- GIF -->
-<img align="right" width=180px height=180px alt="side_sticker" src="https://media.giphy.com/media/82CItLnbSh8hzsXK3H/giphy.gif"/>
+<img align="right" width=180px height=180px alt="side_sticker" src="./assets/satisfying.gif"/>
 
 
 <!-- SUMMARY -->
