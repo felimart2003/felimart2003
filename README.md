@@ -111,8 +111,10 @@ Color theme:
 I have a strong passion for coding! <br>...<br> I've taken the initiative to learn much of my coding by myself while also completing courses in <br>programming at university. I always like the challenge of solving puzzles and coding gives me that <br>satisfaction! Often I will get lost in what I'm working on for hours before I realize I have to <br>go to sleep but it leaves me fulfilled and I find it enjoyable 😄 I hope to help people with my <br>projects or even inspire others with ideas to create their own. <br>
 
 <!-- GIF -->
-<img align="right" width=180px height=180px alt="side_sticker" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA2YmIzc3ZiNGkwdTUwendzbGJkZG9rMXA3em55aXkzcGh3OGhzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9orVUrimaGHoXoiod3/giphy.webp"/>
+<img align="right" width=180px height=180px alt="side_sticker" src="https://media.giphy.com/media/82CItLnbSh8hzsXK3H/giphy.gif"/>
 
+
+<!-- SUMMARY -->
 <ul>
 <li>🌍  I live in Canada </li>
 <li>🖥️  See my portfolio at <a href="http://fmartin.netlify.app/#">fmartin.netlify.app</a> </li>
@@ -125,7 +127,7 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
 <br>
 
 <!-- SKILLS -->
-<h2 align="center">Skills</h2>
+<h2 align="left">Skills</h2>
 <p align="center">
   <a
     href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
@@ -172,7 +174,9 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
       width="36"
       height="36"
       alt="CSS3" /></a
-  ><a
+  > 
+  </br>
+  <a
     href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
     target="_blank"
     rel="noreferrer"
@@ -201,7 +205,8 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
 </p>
 
 <!-- STATS -->
-<h2 align="center">Stats</h2>
+<details open>
+  <summary><h3 align="center">📈 Stats</h3></summary>
 
 <!-- Graph commits -- https://github.com/Ashutosh00710/github-readme-activity-graph : https://ashutosh00710.github.io/github-readme-activity-graph/ (Generator) -->
 <a href="http://www.github.com/felimart2003">
@@ -214,20 +219,37 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
 
 <table>
 <tr>
+<!-- Top left table elem-->
 <!-- Streak stats -- https://github.com/DenverCoder1/github-readme-streak-stats : https://streak-stats.demolab.com/demo/ (Generator) -->
-<td><a href="http://www.github.com/felimart2003"><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=felimart2003&stroke=10b981&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true"
-/></a></td>
+<td>
+  <a href="http://www.github.com/felimart2003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felimart2003&stroke=10b981&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true"/>
+  </a> <br/> <!-- Line break needed so the size of the right elem renders properly -->
+  <!-- Bottom left table elem-->
+  <!-- Github score stat: Gradient -- https://github.com/anuraghazra/github-readme-stats (Repo) -->
+  <a href="https://github.com/felimart2003">
+    <img src="https://github-readme-stats.vercel.app/api?username=felimart2003&show_icons=true&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&card_width=495&card_height=195&hide_border=true"/>
+  </a>
+</td>
 
+<!-- Right table elem-->
 <!-- Top Languages -->
-<td><a href="https://github.com/felimart2003" align="center"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimart2003&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages"
+  <!-- Github score stat: Top langs -- https://github.com/anuraghazra/github-readme-stats (Repo) -->
+<td valign="center" align="center">
+  <a href="https://github.com/felimart2003" align="center"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimart2003&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=pie"
     alt="Top Languages"
-/></a> </td>
+/>
+  </a> 
+</td>
 </tr>
 </table>
 
+</details> <!-- End of first Stats -->
+
+<!-- More stats -->
 <details>
+  <summary><h3>📊 More stats!</h3></summary>
 
 <!-- Contributions graph -- https://github-profile-summary-cards.vercel.app/demo.html (Generator)
 Dark theme color candidates: codeSTACKr, great_gatsby, nightowl, radical, tokyonight, prussian, transparent  // Light theme: moltack, prussian
@@ -249,10 +271,13 @@ View examples: https://github.com/vn7n24fzkq/github-profile-summary-cards-exampl
 </details>
 
 <!-- SPOTIFY -->
-<h2 align="center">Spotify</h2>
+<details open>
+  <summary><h3>🥝 Spotify</h3></summary>
+
 <!-- Spotify widget -- -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=soccerskillzer&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=soccerskillzer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify GitHub Profile">
   </a>
 </p>
+</details>
