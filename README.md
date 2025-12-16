@@ -127,7 +127,7 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
 <br>
 
 <!-- SKILLS -->
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
   <a
     href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
@@ -201,12 +201,8 @@ I have a strong passion for coding! <br>...<br> I've taken the initiative to lea
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
 </p>
 
-  </a>
-</p>
-
 <!-- STATS -->
-<details open>
-  <summary><h3 align="center">📈 Stats</h3></summary>
+<h2 align="center">📈 Stats</h2>
 
 <!-- Graph commits -- https://github.com/Ashutosh00710/github-readme-activity-graph : https://ashutosh00710.github.io/github-readme-activity-graph/ (Generator) -->
 <a href="http://www.github.com/felimart2003">
