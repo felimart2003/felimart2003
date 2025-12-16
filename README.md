@@ -9,6 +9,8 @@ The following was created with the help of:
   https://spotify-github-profile.kittinanx.com -- Spotify
 
 Extras (not using currently):
+  https://github.com/tandpfun/skill-icons#readme -- Technical skills icons
+  https://readme-typing-svg.herokuapp.com/demo/ -- Dynamic typing
   https://github.com/DenverCoder1/readme-typing-svg -- Dynamic typing
   https://s01.flagcounter.com/index.html - Flag counter
   <a href="https://info.flagcounter.com/lLEa"><img src="https://s01.flagcounter.com/countxl/lLEa/bg_000000/txt_FFFFFF/border_000000/columns_5/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
